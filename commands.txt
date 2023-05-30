@@ -1,0 +1,9 @@
+3a node js commands
+
+npm init
+npm install
+npm install express
+npm install ejs
+ 
+node file name.js
+add put port no on chrome: http://localhost:port no
